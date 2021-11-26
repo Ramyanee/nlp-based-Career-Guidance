@@ -8,7 +8,7 @@ import re
 import string
 string.punctuation
 ps = PorterStemmer()
-file = open('a5/facts.txt','w')
+file = open('/Users/ramyanee/Downloads/AI/AI-A5-RamyaneeKashyap-MT21139/facts.txt','w')
 
 def preprocess(text):
     text = re.sub(re.compile('<.*?>') , '', text)

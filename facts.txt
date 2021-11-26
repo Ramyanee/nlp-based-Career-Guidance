@@ -1,1 +1,12 @@
 name(ramyanee).
+cgpa(high).
+knows(python).
+knows(numpy).
+knows(pandas).
+knows(scikit_learn).
+knows(pytorch).
+knows(machine_learning).
+good_at(statistics_and_probability).
+good_at(linear_algebra).
+interested('Conversational AI').
+interested('Computer Vision').
